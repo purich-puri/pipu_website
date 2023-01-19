@@ -2,7 +2,7 @@
   "name": "pipu_website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://purich-puri.github.io/pipu_website",
+  "homepage": "https://pipu.me",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
