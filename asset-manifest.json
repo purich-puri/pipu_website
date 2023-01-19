@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pipu_website/static/css/main.d0e5c779.css",
+    "main.js": "/pipu_website/static/js/main.5c84da83.js",
+    "static/js/787.9d864d35.chunk.js": "/pipu_website/static/js/787.9d864d35.chunk.js",
+    "index.html": "/pipu_website/index.html",
+    "main.d0e5c779.css.map": "/pipu_website/static/css/main.d0e5c779.css.map",
+    "main.5c84da83.js.map": "/pipu_website/static/js/main.5c84da83.js.map",
+    "787.9d864d35.chunk.js.map": "/pipu_website/static/js/787.9d864d35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0e5c779.css",
+    "static/js/main.5c84da83.js"
+  ]
+}
