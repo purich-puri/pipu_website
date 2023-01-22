@@ -1,0 +1,28 @@
+.nav-container {
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+  height: 60px;
+  opacity: 1;
+  background-color: cornflowerblue;
+}
+
+.nav-sub-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.nav-hamburger {
+  display: block;
+  width: 40px;
+  height: 40px;
+  border: 2px solid #000000;
+  border-radius: 15%;
+  cursor: pointer;
+}
